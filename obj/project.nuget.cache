@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Siv6aH1kP7De32v73kGyMOsS4hdUtnwFZ/PwiC4CixgWc8bVVFIeXsA4bNpqHfeQIaB0LlYTlrNFwrJpzDE8iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\INMAHEG2\\Desktop\\netcoreandazurelearning\\guest\\guest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\INMAHEG2\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\INMAHEG2\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\INMAHEG2\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.3\\microsoft.aspnetcore.app.ref.3.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
